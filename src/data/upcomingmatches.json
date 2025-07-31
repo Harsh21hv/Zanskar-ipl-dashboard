@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+    "dateTimeGMT": "2025-07-31T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Mumbai Indians [MI]",
+    "t2": "Chennai Super Kings [CSK]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Wankhede Stadium, Mumbai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-j0k1-l2m3n4o5p6q7",
+    "dateTimeGMT": "2025-08-01T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Royal Challengers Bangalore [RCB]",
+    "t2": "Kolkata Knight Riders [KKR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i0j-k1l2-m3n4o5p6q7r8",
+    "dateTimeGMT": "2025-08-02T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Delhi Capitals [DC]",
+    "t2": "Punjab Kings [PBKS]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "4d5e6f7g-8h9i-j0k1-l2m3-n4o5p6q7r8s9",
+    "dateTimeGMT": "2025-08-02T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Sunrisers Hyderabad [SRH]",
+    "t2": "Rajasthan Royals [RR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Rajiv Gandhi Stadium, Hyderabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "5e6f7g8h-9i0j-k1l2-m3n4-o5p6q7r8s9t0",
+    "dateTimeGMT": "2025-08-03T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Gujarat Titans [GT]",
+    "t2": "Lucknow Super Giants [LSG]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "6f7g8h9i-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+    "dateTimeGMT": "2025-08-03T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Chennai Super Kings [CSK]",
+    "t2": "Royal Challengers Bangalore [RCB]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "7g8h9i0j-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+    "dateTimeGMT": "2025-08-04T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Kolkata Knight Riders [KKR]",
+    "t2": "Delhi Capitals [DC]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Eden Gardens, Kolkata",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "8h9i0j1k-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+    "dateTimeGMT": "2025-08-05T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Punjab Kings [PBKS]",
+    "t2": "Sunrisers Hyderabad [SRH]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "PCA Stadium, Mohali",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "9i0j1k2l-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+    "dateTimeGMT": "2025-08-06T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Rajasthan Royals [RR]",
+    "t2": "Gujarat Titans [GT]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "0j1k2l3m-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+    "dateTimeGMT": "2025-08-07T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Lucknow Super Giants [LSG]",
+    "t2": "Mumbai Indians [MI]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "BRSABV Stadium, Lucknow",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "1k2l3m4n-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+    "dateTimeGMT": "2025-08-08T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Royal Challengers Bangalore [RCB]",
+    "t2": "Punjab Kings [PBKS]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "2l3m4n5o-p6q7-r8s9-t0u1-v2w3x4y5z6a7",
+    "dateTimeGMT": "2025-08-09T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Chennai Super Kings [CSK]",
+    "t2": "Kolkata Knight Riders [KKR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "3m4n5o6p-q7r8-s9t0-u1v2-w3x4y5z6a7b8",
+    "dateTimeGMT": "2025-08-09T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Delhi Capitals [DC]",
+    "t2": "Rajasthan Royals [RR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "4n5o6p7q-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "dateTimeGMT": "2025-08-10T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Sunrisers Hyderabad [SRH]",
+    "t2": "Gujarat Titans [GT]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Rajiv Gandhi Stadium, Hyderabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "5o6p7q8r-s9t0-u1v2-w3x4-y5z6a7b8c9d0",
+    "dateTimeGMT": "2025-08-10T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Mumbai Indians [MI]",
+    "t2": "Royal Challengers Bangalore [RCB]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Wankhede Stadium, Mumbai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "6p7q8r9s-t0u1-v2w3-x4y5-z6a7b8c9d0e1",
+    "dateTimeGMT": "2025-08-11T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Lucknow Super Giants [LSG]",
+    "t2": "Chennai Super Kings [CSK]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "BRSABV Stadium, Lucknow",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "7q8r9s0t-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "dateTimeGMT": "2025-08-12T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Kolkata Knight Riders [KKR]",
+    "t2": "Sunrisers Hyderabad [SRH]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Eden Gardens, Kolkata",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "8r9s0t1u-v2w3-x4y5-z6a7-b8c9d0e1f2g3",
+    "dateTimeGMT": "2025-08-13T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Gujarat Titans [GT]",
+    "t2": "Delhi Capitals [DC]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "9s0t1u2v-w3x4-y5z6-a7b8-c9d0e1f2g3h4",
+    "dateTimeGMT": "2025-08-14T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Punjab Kings [PBKS]",
+    "t2": "Rajasthan Royals [RR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "PCA Stadium, Mohali",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "0t1u2v3w-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "dateTimeGMT": "2025-08-15T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Mumbai Indians [MI]",
+    "t2": "Lucknow Super Giants [LSG]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Wankhede Stadium, Mumbai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "1u2v3w4x-y5z6-a7b8-c9d0-e1f2g3h4i5j6",
+    "dateTimeGMT": "2025-08-16T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Chennai Super Kings [CSK]",
+    "t2": "Sunrisers Hyderabad [SRH]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "2v3w4x5y-z6a7-b8c9-d0e1-f2g3h4i5j6k7",
+    "dateTimeGMT": "2025-08-16T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Royal Challengers Bangalore [RCB]",
+    "t2": "Rajasthan Royals [RR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "3w4x5y6z-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "dateTimeGMT": "2025-08-17T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Kolkata Knight Riders [KKR]",
+    "t2": "Gujarat Titans [GT]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Eden Gardens, Kolkata",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "4x5y6z7a-b8c9-d0e1-f2g3-h4i5j6k7l8m9",
+    "dateTimeGMT": "2025-08-17T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Delhi Capitals [DC]",
+    "t2": "Punjab Kings [PBKS]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "6z7a8b9c-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "dateTimeGMT": "2025-08-20T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Sunrisers Hyderabad [SRH]",
+    "t2": "Royal Challengers Bangalore [RCB]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Rajiv Gandhi Stadium, Hyderabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "7a8b9c0d-e1f2-g3h4-i5j6-k7l8m9n0o1p2",
+    "dateTimeGMT": "2025-08-21T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Rajasthan Royals [RR]",
+    "t2": "Mumbai Indians [MI]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "8b9c0d1e-f2g3-h4i5-j6k7-l8m9n0o1p2q3",
+    "dateTimeGMT": "2025-08-22T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Gujarat Titans [GT]",
+    "t2": "Kolkata Knight Riders [KKR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "9c0d1e2f-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "dateTimeGMT": "2025-08-23T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Punjab Kings [PBKS]",
+    "t2": "Lucknow Super Giants [LSG]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "PCA Stadium, Mohali",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "0d1e2f3g-h4i5-j6k7-l8m9-n0o1p2q3r4s5",
+    "dateTimeGMT": "2025-08-23T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Delhi Capitals [DC]",
+    "t2": "Chennai Super Kings [CSK]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "1e2f3g4h-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+    "dateTimeGMT": "2025-08-24T09:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Mumbai Indians [MI]",
+    "t2": "Sunrisers Hyderabad [SRH]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Wankhede Stadium, Mumbai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "2f3g4h5i-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "dateTimeGMT": "2025-08-24T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Royal Challengers Bangalore [RCB]",
+    "t2": "Gujarat Titans [GT]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RCB.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GT.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "3h4i5j6k-l7m8-n9o0-p1q2-r3s4t5u6v7w8",
+    "dateTimeGMT": "2025-08-26T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Rajasthan Royals [RR]",
+    "t2": "Kolkata Knight Riders [KKR]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RR.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KKR.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "4h5i6j7k-l8m9-n0o1-p2q3-r4s5t6u7v8w9",
+    "dateTimeGMT": "2025-08-27T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Chennai Super Kings [CSK]",
+    "t2": "Punjab Kings [PBKS]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/CSK.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PBKS.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "5i6j7k8l-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "dateTimeGMT": "2025-08-28T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Lucknow Super Giants [LSG]",
+    "t2": "Delhi Capitals [DC]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/LSG.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DC.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "BRSABV Stadium, Lucknow",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  },
+  {
+    "id": "6j7k8l9m-n0o1-p2q3-r4s5-t6u7v8w9x0y1",
+    "dateTimeGMT": "2025-08-29T13:30:00",
+    "matchType": "t20",
+    "status": "Match not started",
+    "t1": "Sunrisers Hyderabad [SRH]",
+    "t2": "Mumbai Indians [MI]",
+    "t1img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/SRH.png?v=2",
+    "t2img": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/MI.png?v=2",
+    "series": "IPL 2025 Special Edition",
+    "venue": "Rajiv Gandhi Stadium, Hyderabad",
+    "score": {
+      "t1": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      },
+      "t2": {
+        "runs": 0,
+        "wickets": 0,
+        "overs": "0.0"
+      }
+    },
+    "currentInning": 1,
+    "winner": null
+  }
+]
