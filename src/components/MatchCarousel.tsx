@@ -29,7 +29,6 @@ export default function MatchCarousel({
   return (
     <div className='my-8'>
       <h2 className='text-lg  mb-4 text-gray-800'>{title}</h2>
-      {/* Add the 'hide-scrollbar' class to this div */}
       <div className={containerClasses}>
         {matches.map((match) => (
           <MatchCard key={match.MatchID} match={match} status={status} />

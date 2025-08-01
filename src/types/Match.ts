@@ -25,3 +25,9 @@ export interface Point {
   OrderNo: string;
   Status: string;
 }
+
+// Type for the entire scraped data document from your API
+export interface IScraped {
+  points: Point[];
+  matches: Match[];
+}

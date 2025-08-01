@@ -6,7 +6,7 @@ import { calculatePointsTable } from '@/utils/calculatePointsTable';
 import MatchCarousel from '@/components/MatchCarousel';
 import LiveMatch from '@/components/LiveMatch';
 import PointsTable from '@/components/PointsTable';
-import DashboardTabs from '@/components/DashboardTabs'; // <-- CORRECTED IMPORT PATH
+import DashboardTabs from '@/components/DashboardTabs';
 
 export default function LandingPage() {
   const [activeTab, setActiveTab] = useState('Matches');

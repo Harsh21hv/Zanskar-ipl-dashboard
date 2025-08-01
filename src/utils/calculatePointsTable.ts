@@ -1,10 +1,4 @@
-interface Match {
-  FirstBattingTeamName: string;
-  SecondBattingTeamName: string;
-  Commentss?: string;
-  FirstBattingSummary?: string;
-  SecondBattingSummary?: string;
-}
+import { type Match } from '@/types/Match';
 
 interface TeamStats {
   name: string;
@@ -119,11 +113,11 @@ export function calculatePointsTable(matches: Match[]): TeamStats[] {
     return team;
   });
 
-  // Sort the final table
+  // Sorting the final table
   table.sort((a, b) => {
     if (b.points !== a.points) return b.points - a.points; // Primary sort: Points
     if (b.nrr !== a.nrr) return b.nrr - a.nrr; // Secondary sort: NRR
-    return b.won - a.won; // Tertiary sort: Wins
+    return b.won - a.won;
   });
 
   return table;

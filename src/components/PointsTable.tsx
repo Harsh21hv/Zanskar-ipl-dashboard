@@ -7,7 +7,7 @@ interface TeamStats {
   lost: number;
   noResult: number;
   points: number;
-  nrr: number; // Add nrr
+  nrr: number; 
 }
 
 interface PointsTableProps {

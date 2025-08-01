@@ -22,7 +22,6 @@ export async function POST() {
     const standingsText = await standingsRes.text();
     // console.log('Raw standings text:', standingsText.substring(0, 100)); // Debug log
     
-    // Fix: Use lowercase 'ongroupstandings' instead of 'onGroupStandings'
     const standingsJson = JSON.parse(
       standingsText.replace(/^ongroupstandings\(/, '').replace(/\);?\s*$/, '')
     );
