@@ -1,36 +1,122 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IPL Dashboard
 
-## Getting Started
+A modern, real-time IPL (Indian Premier League) dashboard built with Next.js that provides comprehensive cricket match information and statistics.
 
-First, run the development server:
+## 🌐 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Visit the live application: [IPL Dashboard](https://zanskar-ipl-dashboard-t6kl.vercel.app)
+
+## ✨ Features
+
+### 🔴 Live Match Updates
+- **Auto-refreshing live matches** - No manual reload required
+- Real-time match status updates
+- Live match indicators with visual animations
+- Toss details for ongoing matches
+
+### 📊 Dynamic Points Table
+- **Automatically updates** when matches are completed
+- Real-time team standings calculation
+- Win/loss records and net run rate tracking
+- Interactive team statistics
+
+### 🏏 Comprehensive Match Information
+- **Live Matches** - Currently ongoing games with live updates
+- **Upcoming Matches** - Future scheduled matches with date/time
+- **Completed Matches** - Historical results with detailed scorecards
+- Match venue information and team details
+
+### 📱 Fully Responsive Design
+- **Mobile-first approach** - Optimized for all screen sizes
+- **Tablet and desktop support** - Seamless experience across devices
+- **Adaptive layouts** - Vertical stack on mobile, horizontal carousel on larger screens
+- Touch-friendly interface with smooth animations
+
+### 🎨 Modern UI/UX
+- Clean, intuitive dashboard design
+- Smooth transitions and hover effects
+- Dark mode support (system preference detection)
+- Loading states and error handling
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ installed on your machine
+- MongoDB Atlas account (or local MongoDB instance)
+- Git for version control
+
+### Local Development Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Harsh21hv/Zanskar-ipl-dashboard.git
+   cd Zanskar-ipl-dashboard/ipl-dashboard
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Environment Setup**
+   - Create a `.env.local` file in the root directory
+   - Add your MongoDB connection string:
+   ```bash
+   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/database_name
+   ```
+
+4. **Run the development server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   # or
+   pnpm dev
+   ```
+
+5. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
+
+### Initial Data Setup
+After starting the development server, you can seed the database with initial match data:
+- Visit `http://localhost:3000/api/seed-matches` to populate sample data
+- Or use the scraping endpoint: `http://localhost:3000/api/scrape`
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js 15, React 18, TypeScript
+- **Styling**: Tailwind CSS
+- **Database**: MongoDB with Mongoose ODM
+- **Deployment**: Vercel
+- **API**: Next.js API Routes (Serverless Functions)
+
+## 📁 Project Structure
+
+```
+src/
+├── app/                    # Next.js app directory
+│   ├── api/               # API routes
+│   ├── (Paths)/          # Route groups
+│   └── page.tsx          # Main dashboard
+├── components/            # Reusable UI components
+├── context/              # React context providers
+├── models/               # MongoDB schemas
+├── types/                # TypeScript type definitions
+└── utils/                # Utility functions and hooks
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Available Scripts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Responsive Breakpoints
 
-## Learn More
+- **Mobile**: < 768px (Vertical layout)
+- **Tablet**: 768px - 1024px (Mixed layout)
+- **Desktop**: > 1024px (Horizontal carousel)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
