@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const MONGODB_URI = process.env.MONGODB_URI!;
+const MONGODB_URI= process.env.MONGODB_URI!;
 
 if (!MONGODB_URI) {
   throw new Error(
@@ -23,7 +23,7 @@ export default async function dbConnect() {
       bufferCommands: true,
       maxPoolSize: 10,
     };
-    mongoose.connect(MONGODB_URI, {}).then(() => mongoose.connection);
+    cached.promise = mongoose.connect(MONGODB_URI, opts).then(() => mongoose.connection);
   }
 
   try {
