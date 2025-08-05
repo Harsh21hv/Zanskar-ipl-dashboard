@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import connectDB from '@/app/lib/dbConnect';
-import Match from '@/models/Match';
 import Scraped from '@/models/Match'; 
 
 

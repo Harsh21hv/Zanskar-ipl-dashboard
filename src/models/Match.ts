@@ -1,6 +1,5 @@
 import mongoose, { Schema, model, models } from 'mongoose';
 
-
 // POINTS INTERFACE
 interface Point {
   TeamID: string;
@@ -75,8 +74,8 @@ const MatchSchema: Schema = new Schema<Match>({
   GroundName: { type: String, required: true },
   Commentss: { type: String, required: true },
   TossDetails: { type: String, required: true },
-  FirstBattingSummary: { type: mongoose.Schema.Types.Mixed, default: {} },
-  SecondBattingSummary: { type: mongoose.Schema.Types.Mixed, default: {} },
+  FirstBattingSummary: { type: String, default: '' },
+  SecondBattingSummary: { type: String, default: '' },
 });
 
 // MAIN SCHEMA with collection name "scrape"
