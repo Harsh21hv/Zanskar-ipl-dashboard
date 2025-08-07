@@ -1,13 +1,19 @@
 'use client';
 
-import { useIplData } from '@/utils/hooks/useIplData';
+import { useIplStore } from '@/stores/iplStore';
 import LiveMatch from '@/components/LiveMatch';
 import MatchCarousel from '@/components/MatchCarousel';
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 import {type Match } from '@/types/Match';
 
 export default function LiveScoresPage() {
-  const { data, loading } = useIplData();
+  // Get data and fetchData function
+  const { data, loading, fetchData } = useIplStore();
+
+  // Initialize data if not already loaded
+  useEffect(() => {
+    fetchData();
+  }, [fetchData]);
 
   const { liveMatches, upcomingMatches } = useMemo<{
     liveMatches: Match[];

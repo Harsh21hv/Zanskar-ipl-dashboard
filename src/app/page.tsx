@@ -1,18 +1,28 @@
 'use client';
 
 import { useState, useMemo, useEffect } from 'react';
-import { useIplData } from '@/utils/hooks/useIplData';
 import { calculatePointsTable } from '@/utils/calculatePointsTable';
 import MatchCarousel from '@/components/MatchCarousel';
 import LiveMatch from '@/components/LiveMatch';
 import PointsTable from '@/components/PointsTable';
 import DashboardTabs from '@/components/DashboardTabs';
+import { useIplStore } from '@/stores/iplStore';
 
 export default function LandingPage() {
   const [activeTab, setActiveTab] = useState('Matches');
-  const { data, loading, error } = useIplData();
+  
+  // OLD: const { data, loading, error } = useIplData();
+  // NEW: Using Zustand store instead
+  const { data, loading, error, fetchData } = useIplStore();
+  
   const [currentTime, setCurrentTime] = useState(() => Date.now());
   const liveDurationInMs = 3 * 60 * 1000;
+
+  // 🎯 Initialize data ONCE when app starts (only on main page)
+  useEffect(() => {
+    fetchData();
+  }, [fetchData]);
+
 
   const { upcomingMatches, liveMatches, completedMatches, pointsTableData } =
     useMemo(() => {
@@ -95,6 +105,7 @@ export default function LandingPage() {
 
   return (
     <>
+      
       <DashboardTabs
         activeTab={activeTab}
         setActiveTab={setActiveTab}

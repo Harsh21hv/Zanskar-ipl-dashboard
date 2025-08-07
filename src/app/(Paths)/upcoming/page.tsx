@@ -1,11 +1,18 @@
 'use client';
 
-import { useIplData } from '@/utils/hooks/useIplData';
+import { useIplStore } from '@/stores/iplStore';
 import MatchCarousel from '@/components/MatchCarousel';
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 
 export default function UpcomingPage() {
-  const { data, loading } = useIplData();
+  // Get data and fetchData function
+  const { data, loading, fetchData } = useIplStore();
+  
+  // Initialize data if not already loaded
+  useEffect(() => {
+    fetchData();
+  }, [fetchData]);
+  
   const upcomingMatches = useMemo(() => {
     if (!data?.matches) return [];
     return data.matches.filter(m => new Date(`${m.MatchDate}T${m.MatchTime}:00`) > new Date())
